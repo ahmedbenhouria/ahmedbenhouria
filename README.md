@@ -1,6 +1,6 @@
 ## Hey there 👋 — welcome to my GitHub!<br>
 
-#### Mobile App Developer with 2+ years of experience in native Android development using Kotlin and Java. I also work as a freelance Flutter developer, building beautiful and responsive cross-platform apps 👨‍💻 working remotely since 2022 🚀</div>  
+#### Mobile App Developer with 2+ years of experience in native Android development using Kotlin and Java. I also work as a freelance Flutter developer, building clean and responsive cross-platform apps 👨‍💻 working remotely since 2022 🚀</div>  
   
 <br/>  
 
