@@ -1,11 +1,10 @@
-### <div align="center">Hi 👋, I'm Ahmed<br> Mobile App Developer with 2 years of experience in Android development (Kotlin/Java), alongside freelance work in Flutter for cross-platform solutions 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">Hi 👋, I'm Ahmed<br><br> Mobile App Developer with 2 years of experience in Android development (Kotlin/Java), alongside freelance work in Flutter for cross-platform solutions 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
@@ -19,17 +18,6 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -55,11 +43,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
