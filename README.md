@@ -34,6 +34,9 @@
   <a href="https://www.tailwindcss.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
   </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/+21627412263" target="_blank">
+  <img src="https://img.shields.io/badge/whatsapp-%25C232F.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="margin-bottom: 5px;" />
+</a>
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
   </a>
