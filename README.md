@@ -34,9 +34,6 @@
   <a href="https://www.tailwindcss.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
   </a>&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/+21627412263" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="margin-bottom: 5px;" />
-</a>
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
   </a>
@@ -51,6 +48,9 @@
 </a>
 <a href="https://linkedin.com/in/ahmedbenhouria" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  <a href="https://wa.me/+21627412263" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/ahmedbenhouria" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
