@@ -1,5 +1,6 @@
-#### <div align="center">Hi 👋, I'm Ahmed<br>
-### Mobile App Developer with 2+ years of experience in native Android development using Kotlin and Java. I also work as a freelance Flutter developer, building beautiful and responsive cross-platform apps 👨‍💻 working remotely since 2022 🚀</div>  
+## <div align="center">Hi 👋, I'm Ahmed<br>
+
+# <div align="center">Mobile App Developer with 2+ years of experience in native Android development using Kotlin and Java. I also work as a freelance Flutter developer, building beautiful and responsive cross-platform apps 👨‍💻 working remotely since 2022 🚀</div>  
   
 <br/>  
 
