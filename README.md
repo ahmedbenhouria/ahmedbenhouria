@@ -1,6 +1,8 @@
 ## Hey there 👋 — welcome to my GitHub!<br>
 
-#### Mobile App Developer with 2+ years of experience in native Android development using Kotlin and Java. I also work as a freelance Flutter developer, building clean and responsive cross-platform apps 👨‍💻 working remotely since 2022 🚀</div>  
+#### I build mobile apps and web platforms that real businesses rely on every day, from cross-platform apps in people's pockets to fast, scalable web dashboards behind the scenes.
+
+Mobile & Web Developer focused on Flutter and Android for mobile, and React, Next.js and TypeScript for the web. I've worked on real estate, hospitality and business platforms, turning ideas into products that are clean, fast and built to last. Working remotely since 2022 🚀</div>  
   
 <br/>  
 
